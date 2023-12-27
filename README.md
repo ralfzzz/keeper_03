@@ -12,6 +12,12 @@
     <li>
       React useState
     </li>
+    <li>
+      React Properties
+    </li>
+    <li>
+      React Map & Filter
+    </li>
   </ul>
 </div>
 <h2>Install</h2>
