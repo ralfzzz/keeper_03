@@ -30,10 +30,15 @@ CD into repo's directory.
 
 ### Step 2
 ```sh
-npm start
+npm install
 ```
 
 ### Step 3
+```sh
+npm start
+```
+
+### Step 4
 Open "http://localhost:3000/" in your browser.
 
 
