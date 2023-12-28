@@ -23,6 +23,7 @@
 <h2>Install</h2>
 
 ### Preparations
+- Using Node
 - Clone / Download this repo. 
 
 ### Step 1
